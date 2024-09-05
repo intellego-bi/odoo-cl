@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/intellego-bi/odoo-12">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://i2.wp.com/intellego-bi.com/ws/wp-content/uploads/2016/05/Intellego-BI-112x35.jpg" alt="Logo" width="200">
   </a>
 
 <h3 align="center">Odoo 12 Localización chilena</h3>
